@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 172.31.40.203
   tasks:
     - debug:
         msg: This is task one
